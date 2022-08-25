@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projket", "Projket\Projket.csproj", "{7A4D7D2C-2873-4E5A-8138-48531573B9EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A81AA8A-B735-4273-BB2F-23F3C8AB8BCD}"
+	ProjectSection(SolutionItems) = preProject
+		Fitnes_log.ldf = Fitnes_log.ldf
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{21D33AAE-1283-4772-9410-398C0FDCF27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4D7D2C-2873-4E5A-8138-48531573B9EC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4D7D2C-2873-4E5A-8138-48531573B9EC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7A4D7D2C-2873-4E5A-8138-48531573B9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4D7D2C-2873-4E5A-8138-48531573B9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D33AAE-1283-4772-9410-398C0FDCF27C}.Debug|Any CPU.ActiveCfg = Debug
+		{21D33AAE-1283-4772-9410-398C0FDCF27C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B401183-F990-4BDE-A123-000E90839BCF}
+	EndGlobalSection
+EndGlobal
